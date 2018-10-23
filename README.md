@@ -15,7 +15,7 @@ eksisterer annet rettslig behandlingsgrunnlag jf. personvernforordningen
 artikkel 6. Avtalen ansees inngått når slik
 data tas i bruk, uansett måte den er hentet inn på eller
 behandles. Anonymisering og pseudo-anonymisering av persondata ansees
-som en behandling denne avtalen. Anonymisert/pseudo-anonymiser
+som en behandling etter denne avtalen. Anonymisert/pseudo-anonymiser
 persondata anses også som persondata etter denne avtalen.
 
 ## Leiers plikter
